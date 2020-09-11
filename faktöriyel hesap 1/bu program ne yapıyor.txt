@@ -1,0 +1,2 @@
+bağımsız değişkenleri bildiren bir faktöriyel programı.
+visual C# 2015
