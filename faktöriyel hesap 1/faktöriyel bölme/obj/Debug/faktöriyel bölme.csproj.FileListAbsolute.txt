@@ -4,3 +4,9 @@ C:\Users\craftingbook\Desktop\100DaysOfC#Code\faktöriyel bölme\faktöriyel bö
 C:\Users\craftingbook\Desktop\100DaysOfC#Code\faktöriyel bölme\faktöriyel bölme\bin\Debug\faktöriyel bölme.pdb
 C:\Users\craftingbook\Desktop\100DaysOfC#Code\faktöriyel bölme\faktöriyel bölme\obj\Debug\faktöriyel bölme.exe
 C:\Users\craftingbook\Desktop\100DaysOfC#Code\faktöriyel bölme\faktöriyel bölme\obj\Debug\faktöriyel bölme.pdb
+C:\Users\craftingbook\Desktop\100DaysOfCodeC-\faktöriyel hesap 1\faktöriyel bölme\bin\Debug\faktöriyel bölme.exe.config
+C:\Users\craftingbook\Desktop\100DaysOfCodeC-\faktöriyel hesap 1\faktöriyel bölme\bin\Debug\faktöriyel bölme.exe
+C:\Users\craftingbook\Desktop\100DaysOfCodeC-\faktöriyel hesap 1\faktöriyel bölme\bin\Debug\faktöriyel bölme.pdb
+C:\Users\craftingbook\Desktop\100DaysOfCodeC-\faktöriyel hesap 1\faktöriyel bölme\obj\Debug\faktöriyel bölme.csprojResolveAssemblyReference.cache
+C:\Users\craftingbook\Desktop\100DaysOfCodeC-\faktöriyel hesap 1\faktöriyel bölme\obj\Debug\faktöriyel bölme.exe
+C:\Users\craftingbook\Desktop\100DaysOfCodeC-\faktöriyel hesap 1\faktöriyel bölme\obj\Debug\faktöriyel bölme.pdb
